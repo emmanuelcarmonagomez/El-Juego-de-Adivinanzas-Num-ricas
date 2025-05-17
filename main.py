@@ -26,3 +26,5 @@ else:
 
 print("Gracias por jugar.")
 input("Presiona Enter para salir del juego...")
+
+##Jhoan Quirama y Emmanuel Carmona
